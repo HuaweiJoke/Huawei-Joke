@@ -5,5 +5,5 @@ This project is collecting jokes about Huawei company that are deleted due to ce
 
 ------
 
-- [251冲塔笑话](https://github.com/HuaweiJoke/Huawei-Joke/blob/master/251%E5%86%B2%E5%A1%94%E7%AC%91%E8%AF%9D.md)
-- [原版苏东政治笑话合集](https://github.com/HuaweiJoke/Huawei-Joke/blob/master/%E5%8E%9F%E7%89%88%E8%8B%8F%E4%B8%9C%E6%94%BF%E6%B2%BB%E7%AC%91%E8%AF%9D%E5%90%88%E9%9B%86.txt)
+- [251冲塔笑话](https://github.com/HuaweiJoke/Huawei-Joke/blob/master/251%E5%86%B2%E5%A1%94%E7%AC%91%E8%AF%9D.md):项目创建者所作，原发于知乎，后被删除。
+- [原版苏东政治笑话合集](https://github.com/HuaweiJoke/Huawei-Joke/blob/master/%E5%8E%9F%E7%89%88%E8%8B%8F%E4%B8%9C%E6%94%BF%E6%B2%BB%E7%AC%91%E8%AF%9D%E5%90%88%E9%9B%86.txt)：原版笑话合集，来源不详。
